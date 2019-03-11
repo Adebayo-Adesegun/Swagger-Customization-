@@ -1,4 +1,5 @@
 # Swagger-Customization
+
 This project is a boiler template to integrate swagger in an Asp.Net core web project. 
 
 You replace the url in script.js for the generated swagger.json link.  
@@ -13,5 +14,9 @@ The files were necessary to aid full customization of the displayed output.
 The official layout for Asp.net mvc was adopted https://bootstrapmade.com/wp-content/themefiles/Regna/Regna.zip
 
 You can easily customize and use your own bootstrap template for the project and wrap around the swagger markup section. 
+
+
+
+![Image description](https://res.cloudinary.com/segibambo/image/upload/v1552317330/Swagger_view.png)
 
 
