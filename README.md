@@ -10,7 +10,7 @@ The swagger.ui files were downloaded from https://swagger.io/tools/swagger-ui/do
 The files were necessary to aid full customization of the displayed output. 
 
 ---------------------------------------------------------------------------------------------------------------------------
-Regna bootstrap 4 free template was downloaded from https://bootstrapmade.com/wp-content/themefiles/Regna/Regna.zip
+The official layout for Asp.net mvc was adopted https://bootstrapmade.com/wp-content/themefiles/Regna/Regna.zip
 
 You can easily customize and use your own bootstrap template for the project and wrap around the swagger markup section. 
 
