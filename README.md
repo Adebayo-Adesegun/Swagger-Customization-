@@ -1,7 +1,7 @@
 # Swagger-Customization
-This project is an Asp.Net core web project that customizes swagger for developers...
+This project is a boiler template to integrate swagger in an Asp.Net core web project. 
 
-It takes in the generated swagger.json link and embeds it within your markup.  
+You replace the url in script.js for the generated swagger.json link.  
 
 In this example template, the json link generated for the pet store store official example for 
 swagger was used @https://petstore.swagger.io/v2/swagger.json from @https://petstore.swagger.io/. 
